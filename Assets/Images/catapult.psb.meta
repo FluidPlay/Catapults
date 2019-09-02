@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: a018076d46f03294d8a79b01a73e07a8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 150
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Whell_back
+    originalName: 
+    pivot: {x: 0.51070833, y: 0.45716682}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 270
+      width: 61
+      height: 61
+    spriteID: f1d712356e96e0c4a9ff68a661ca02e8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -21, y: 255}
+  - name: Whell_front
+    originalName: 
+    pivot: {x: 0.5, y: 0.45716682}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 339
+      width: 61
+      height: 61
+    spriteID: eec1cf530963c444690f85ca62756ba5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -126, y: 324}
+  - name: Frame
+    originalName: 
+    pivot: {x: 0.47624692, y: 0.017867524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 4
+      width: 110
+      height: 126
+    spriteID: 36a293f18c21e534381dac4a93759503
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: -40}
+  - name: Rock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 408
+      width: 51
+      height: 57
+    spriteID: f2cef15c3a40ef3498b726b28c586d13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -136, y: 142}
+  - name: Launcher
+    originalName: 
+    pivot: {x: 0.49010283, y: 0.054398146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 66
+      height: 258
+    spriteID: 473287d76cda2d1488b1a83e6c6e8467
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -117, y: -68}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 512
+  documentSize: {x: 222, y: 334}
+  paperDollMode: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 256
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Body
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+  - name: Whell_back
+    spriteName: Whell_back
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f1d712356e96e0c4a9ff68a661ca02e8
+    layerID: 2
+    mosaicPosition: {x: 4, y: 270}
+  - name: Whell_front
+    spriteName: Whell_front
+    isGroup: 0
+    parentIndex: 0
+    spriteID: eec1cf530963c444690f85ca62756ba5
+    layerID: 3
+    mosaicPosition: {x: 4, y: 339}
+  - name: Frame
+    spriteName: Frame
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 36a293f18c21e534381dac4a93759503
+    layerID: 4
+    mosaicPosition: {x: 78, y: 4}
+  - name: Rock
+    spriteName: Rock
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f2cef15c3a40ef3498b726b28c586d13
+    layerID: 6
+    mosaicPosition: {x: 4, y: 408}
+  - name: Launcher
+    spriteName: Launcher
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 473287d76cda2d1488b1a83e6c6e8467
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: catapult
+  prefabAssetName: catapult_GO
+  spriteLibAssetName: 

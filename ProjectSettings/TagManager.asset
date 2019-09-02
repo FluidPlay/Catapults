@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Catapults
+    uniqueID: 4201262683
+    locked: 0
